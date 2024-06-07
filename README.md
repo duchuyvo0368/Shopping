@@ -1,7 +1,7 @@
 <body>
     <div class="container" width= auto>
         <h1>Shopping App Screenshot</h1>
-<img src="https://github.com/duchuyvo0368/Shopping/raw/master/demo/Screenshot%202024-06-07%20152745.png" width=400; height=350px alt="Shopping App Screenshot">
+<img src="https://github.com/duchuyvo0368/Shopping/raw/master/demo/Screenshot%202024-06-07%20152745.png" width=400; height=300px alt="Shopping App Screenshot">
 <img src="https://github.com/duchuyvo0368/Shopping/blob/master/demo/Screenshot%202024-06-07%20152901.png" width=400; height=300px alt="Shopping App Screenshot">
 <img src="https://github.com/duchuyvo0368/Shopping/blob/master/demo/Screenshot%202024-06-07%20152941.png" width=400; height=350px alt="Shopping App Screenshot"" width=400; height=350px alt="Shopping App Screenshot">
 <img src="https://github.com/duchuyvo0368/Shopping/blob/master/demo/Screenshot%202024-06-07%20153005.png" width=400; height=350px alt="Shopping App Screenshot"" width=400; height=350px alt="Shopping App Screenshot">
